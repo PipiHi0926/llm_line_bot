@@ -81,3 +81,6 @@
 line_venv\Scripts\activate 
 
 python llm_line_bot\main.py
+
+
+gunicorn==19.7.1
